@@ -1,4 +1,4 @@
-const user = 'Viktor'
+const user = 'Davis'
 
 const sayHello = name => {
     console.log('Oh! Hello')
